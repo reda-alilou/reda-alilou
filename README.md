@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Tech Stack:
-**Languages:** Python ,Html , CSS, Nodejs, JavaScript, SQL  
+**Languages:** Python, C, C++ ,Html , CSS, Nodejs, JavaScript, SQL  
 **Tools & Frameworks:** Pandas, NumPy, Matplotlib, Flask, React  
 **Interests:** AI/ML, Data Visualization, Web Development  
 
