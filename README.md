@@ -1,37 +1,23 @@
-# Hi there! 👋 I'm **Reda Alilou** 
+## Hey, I'm Reda 👋
 
-🌟 **First-Year Data Science Student** @ **[INPT](https://www.inpt.ac.ma/)**  
-🎓 Passionate about **Artificial Intelligence 🤖** and **Software Development 💻**
+2nd year Data Science & Engineering student at [INPT](https://www.inpt.ac.ma/), focused on building data pipelines and making sense of messy data.
 
----
+### What I'm working with
 
-## 🚀 About Me
-- 🌱 Currently diving deep into **Machine Learning**, **Python Programming**, and **Data Analysis** 📊.
-- 💡 Love working on **real-world projects** to sharpen my programming and problem-solving skills.  
-- 🎯 Always eager to learn and explore **cutting-edge technologies** and collaborate with like-minded individuals.  
+Currently building stuff with Python, SQL, and PostgreSQL. Did a summer internship where I got to work on ETL pipelines and automated data workflows, which was pretty cool.
 
----
+**Main tools:** Python • SQL • Pandas • PostgreSQL • Docker • Git  
+**Learning:** Kafka, Spark, Azure (trying to get better at real-time data processing)
 
-## 🛠️ Tech Stack:
-**Languages:** Python, C, C++ ,Html , CSS, Nodejs, JavaScript, SQL  
-**Tools & Frameworks:** Pandas, NumPy, Matplotlib, Flask, React  
-**Interests:** AI/ML, Data Visualization, Web Development  
+### Projects I've worked on
 
----
+Most of my repos here are from school projects and personal experiments:
+- Built an end-to-end ML system with FastAPI deployment
+- Created some NLP classification pipelines
+- Currently messing around with real-time data streaming
 
-## 📬 Contact Me!
-- 📧 Email: [redaalilou.re@gmail.com](mailto:redaalilou.re@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/reda-alilou](https://www.linkedin.com/in/reda-alilou/)  
-- 📱 Phone: +212 7 01 14 26 16  
+### Where to find me
 
----
+[LinkedIn](https://www.linkedin.com/in/reda-alilou/) • [Email](mailto:redaalilou.re@gmail.com)
 
-## Fun Facts 🌟
-- 🧑‍🏫 I enjoy sharing knowledge and helping others get started in tech!  
-- 🤝 I love collaborating on tech projects that **make a difference**.  
-- 🎯 I'm focused on **turning data into actionable insights**!  
-- 🎲 In my free time, I enjoy gaming and listening to good music; I'm really passionate about these two.
-
----
-
-### Let's build something amazing together! 🚀✨
+When I'm not coding, I'm probably gaming or listening to music.
